@@ -1,6 +1,6 @@
-  =>  Template Name    : iCREAM - Ice Cream Shop Website Template
+  =>  Template Name    : SPA Center - Beauty & Spa HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/ice-cream-shop-website-template
+  =>  Template Link    : https://htmlcodex.com/spa-html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
